@@ -11,7 +11,7 @@
 ## How to run with Docker
 
 ```bash
-# Build Docker Image for book-details service
+# Build Docker Image for book-reviews service
 docker build -t book-reviews .
 
 # Run book-details service on port 8082
